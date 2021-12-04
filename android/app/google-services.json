@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922432505868",
+    "project_id": "lovinghearts-f590c",
+    "storage_bucket": "lovinghearts-f590c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922432505868:android:61dfbd9ecbe074f0450629",
+        "android_client_info": {
+          "package_name": "com.lovinghearts.foodybite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922432505868-gu64gd8p2tfclns3fqpe9ban9limsvj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhWnYTj-Z3ByEhoPUJRgS7KSFeYxnqCyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922432505868-gu64gd8p2tfclns3fqpe9ban9limsvj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
